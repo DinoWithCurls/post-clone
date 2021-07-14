@@ -2,4 +2,4 @@
 #This is a clone for Postman
 
 
-#Technologies used: NodeJS, Bootstrap, Axios API.
+#Technologies used: HTML, NodeJS, Bootstrap, Axios API.
